@@ -49,7 +49,7 @@ function setup() {
 }
  
 function draw() {
-  background("pink");
+  background("cyan");
 
   textSize(18);
   text("Score : "+score,20,40);
